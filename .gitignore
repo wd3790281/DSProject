@@ -1,0 +1,20 @@
+# Java class files
+*.class
+*.jar
+#generated files
+bin/
+out/
+gen/
+
+#idea project files
+.idea/
+.idea/name
+*.iml
+
+#classpath
+.classpath
+.project
+
+#gradle
+*.gradle
+
